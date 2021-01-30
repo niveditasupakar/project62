@@ -1,0 +1,27 @@
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: mediumpurple;
+}
+
+.container
+{
+    text-align: center;
+}
+#myCarousel{
+    background-color:chartreuse;
+    
+}
+/*Start your code from here */
+#myCarousel img{
+    height:300px;
+    margin-top:35px
+        
+}
+#myCarouse2{
+    background-color: aqua;
+}
+#myCarouse2 img{
+   height:300px;
+    margin-top:35px 
+}
